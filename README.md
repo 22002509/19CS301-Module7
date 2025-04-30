@@ -1,5 +1,5 @@
 # 19CS301-Module7
-EX: 7.1 RECURSION
+# EX: 7.1 RECURSION
 ### Aim: 
 To write a Python program that counts the number of 1's in a binary number using a recursive function.
 ### Algorithm:
@@ -38,7 +38,7 @@ print(result)
 Thus, the given program is implemented and executed successfully .
  
 
-EX: 7.2 TYPES OF RECURSIONS
+# EX: 7.2 TYPES OF RECURSIONS
 ### Aim: 
 To write a Python program that displays the first n Fibonacci numbers using tree recursion.
 ### Algorithm:
@@ -71,7 +71,7 @@ def fibonacci(n):
 Thus, the given program is implemented and executed successfully .
 
 
-EX: 7.3 TAYLOR SERIES
+# EX: 7.3 TAYLOR SERIES
 
 ### Aim: 
 To Write a python program to evaluate the series using recursion.
@@ -104,7 +104,7 @@ print(series(x,n))
 Thus, the given program is implemented and executed successfully .
  
 
-EX: 7.4 Solve by recursion relation
+# EX: 7.4 Solve by recursion relation
 
 ### Aim: 
 To write a Python program to determine the sum of all elements in a list using recursion.
