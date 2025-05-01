@@ -17,6 +17,8 @@ To write a Python program that counts the number of 1's in a binary number using
 
 ### Program:
 ```
+#Reg.NO:212222040120
+#Name:PRASANNA R
 def count_ones(binary_str):
     # Base case: if the string is empty, return 0
     if not binary_str:
@@ -54,7 +56,8 @@ To write a Python program that displays the first n Fibonacci numbers using tree
 
 ### Program:
 ```
-
+#Reg.NO:212222040120
+#Name:PRASANNA R
 def fibonacci(n):
     if n==0:
         return 0
@@ -87,6 +90,8 @@ To Write a python program to evaluate the series using recursion.
 
 ### Program:
 ```
+#Reg.NO:212222040120
+#Name:PRASANNA R
 def series(x,n):
     if n<=0:
         return 1
@@ -124,6 +129,8 @@ To write a Python program to determine the sum of all elements in a list using r
 
 ### Program:
 ```
+#Reg.NO:212222040120
+#Name:PRASANNA R
 def sum_list(l,length):
     if length==0:
         return l[0]
